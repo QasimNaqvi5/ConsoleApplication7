@@ -2,4 +2,6 @@
 using namespace std;
 int main() {
 	cout << "ehllo ";
+	cout << "pakistan hello ";
+	cout << "ss";
 }
