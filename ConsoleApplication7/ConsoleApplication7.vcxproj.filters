@@ -18,12 +18,18 @@
     <ClCompile Include="ConsoleApplication7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="qasim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Header1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qasim.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
